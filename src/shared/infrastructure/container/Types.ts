@@ -1,0 +1,7 @@
+export const SYMBOLS = {
+  HOME_REPOSITORY: Symbol('HOME_REPOSITORY'),
+  HOME_GET_ALL_ZONAS: Symbol('HOME_GET_ALL_ZONAS'),
+  HOME_GET_ZONA: Symbol('HOME_GET_ZONA'),
+  HOME_CREATE_ZONA: Symbol('HOME_CREATE_ZONA'),
+  STORE: Symbol('Store'),
+}
